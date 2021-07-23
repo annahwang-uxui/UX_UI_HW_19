@@ -81,3 +81,7 @@
     transform: rotate(720deg);
   }
 }
+
+.myLogo {
+  margin: 0 auto;
+}

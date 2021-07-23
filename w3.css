@@ -708,14 +708,14 @@ a{
     transform:translate(0%,-50%);
     -ms-transform:translate(0%,-50%)
 }
- .w3-display-topmiddle{
+.w3-display-topmiddle{
     position:absolute;
     left:50%;
     top:0;
     transform:translate(-50%,0%);
     -ms-transform:translate(-50%,0%)
 }
- .w3-display-bottommiddle{
+.w3-display-bottommiddle{
     position:absolute;
     left:50%;
     bottom:0;
@@ -916,7 +916,7 @@ a{
 .w3-greyscale-min,.w3-grayscale-min{
     filter:grayscale(50%)
 }
- .w3-sepia{
+.w3-sepia{
     filter:sepia(75%)
 }
 .w3-sepia-max,.w3-hover-sepia:hover{
@@ -1090,7 +1090,7 @@ a{
 }
  .w3-light-green,.w3-hover-light-green:hover{
     color:#000!important;
-    background-color:#8bc34a!important
+    background-color:#cecece!important
 }
  .w3-indigo,.w3-hover-indigo:hover{
     color:#fff!important;
@@ -1134,7 +1134,7 @@ a{
 }
  .w3-teal,.w3-hover-teal:hover{
     color:#fff!important;
-    background-color:#009688!important
+    background-color: blue!important
 }
  .w3-yellow,.w3-hover-yellow:hover{
     color:#000!important;
